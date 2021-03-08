@@ -1,0 +1,14 @@
+{
+  "name": "learn_sexy_css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve":"npm run sass",
+    "sass":"sass --watch sass:css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
